@@ -1,4 +1,4 @@
-let countdown;
+var countdown;
 const timerDisplay = document.getElementById('timer');
 const minutesInput = document.getElementById('minutes');
 
